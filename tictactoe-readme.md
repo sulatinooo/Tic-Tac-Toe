@@ -4,9 +4,6 @@ An interactive web-based Tic Tac Toe game featuring an unbeatable AI opponent po
 
 **[🎯 Play Live Demo](https://your-username.github.io/tic-tac-toe-minimax/)**
 
-![Tic Tac Toe Game Screenshot](https://via.placeholder.com/600x400?text=Game+Screenshot)
-<!-- Replace with actual screenshot after deployment -->
-
 ##  Features
 
 - **Unbeatable AI**: Implements Minimax algorithm for optimal play
@@ -55,7 +52,7 @@ The AI uses the **Minimax algorithm** with game tree exploration to evaluate all
 **Pro tip**: In Unbeatable mode, the best you can achieve is a draw!
 
 
-## 🧠 Learning Outcomes
+##  What I learned:
 
 Building this project helped me understand:
 - Game theory and decision trees
@@ -65,7 +62,7 @@ Building this project helped me understand:
 - CSS animations and responsive design
 - State management in JavaScript
 
-## 🔄 Original Implementation
+##  Original Implementation
 
 This web version is based on my original C++ implementation, which featured:
 - 2D array board representation
@@ -76,7 +73,7 @@ This web version is based on my original C++ implementation, which featured:
 The JavaScript version maintains the same unbeatable AI strategy while adding an interactive web interface.
 
 
-## 👤 Author
+##  Author
 
 **Your Name**
 
