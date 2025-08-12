@@ -1,8 +1,8 @@
-# Unbeatable Tic Tac Toe AI 🎮
+# Unbeatable Tic Tac Toe AI 
 
-An interactive web-based Tic Tac Toe game featuring an unbeatable AI opponent powered by the Minimax algorithm. Try your best - you won't win against the optimal mode!
+An interactive web-based Tic Tac Toe game featuring an unbeatable AI opponent powered by the Minimax algorithm.
 
-**[🎯 Play Live Demo](https://sulatinooo.github.io/Tic-Tac-Toe/)**
+**[ Play: ](https://sulatinooo.github.io/Tic-Tac-Toe/)**
 
 ##  Features
 
@@ -42,7 +42,7 @@ The AI uses the **Minimax algorithm** with game tree exploration to evaluate all
 - **Styling**: CSS Grid, Flexbox, CSS Animations
 - **Storage**: LocalStorage API for statistics persistence
 
-## 🎮 How to Play
+##  How to Play
 
 1. Choose your difficulty mode (Unbeatable or Random)
 2. Click any empty cell to make your move (you play as 'O')
