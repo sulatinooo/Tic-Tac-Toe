@@ -15,7 +15,7 @@ Responsive Design: Works seamlessly on desktop, tablet, and mobile
 Modern UI: Glassmorphism design with smooth animations
 Player Choice: Option to go first or second
 
- Algorithm Details
+ Algorithm Details: \n
 The AI uses the Minimax algorithm with game tree exploration to evaluate all possible future game states and choose the optimal move.
 How it Works:
 
