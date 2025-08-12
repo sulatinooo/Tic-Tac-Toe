@@ -7,7 +7,7 @@ An interactive web-based Tic Tac Toe game featuring an unbeatable AI opponent po
 ![Tic Tac Toe Game Screenshot](https://via.placeholder.com/600x400?text=Game+Screenshot)
 <!-- Replace with actual screenshot after deployment -->
 
-## ✨ Features
+##  Features
 
 - **Unbeatable AI**: Implements Minimax algorithm for optimal play
 - **Two Difficulty Modes**: 
@@ -19,7 +19,7 @@ An interactive web-based Tic Tac Toe game featuring an unbeatable AI opponent po
 - **Modern UI**: Glassmorphism design with smooth animations
 - **Player Choice**: Option to go first or second
 
-## 🤖 Algorithm Details
+##  Algorithm Details
 
 The AI uses the **Minimax algorithm** with game tree exploration to evaluate all possible future game states and choose the optimal move.
 
@@ -37,34 +37,12 @@ The AI uses the **Minimax algorithm** with game tree exploration to evaluate all
 - **Space Complexity**: O(bm) for recursion stack
 - **Maximum Game Tree Nodes**: 9! = 362,880 (pruned significantly in practice)
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
 - **Algorithm**: Minimax with optimal play strategy
 - **Styling**: CSS Grid, Flexbox, CSS Animations
 - **Storage**: LocalStorage API for statistics persistence
-
-## 💻 Installation & Setup
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/tic-tac-toe-minimax.git
-cd tic-tac-toe-minimax
-```
-
-2. Open `index.html` in your browser:
-```bash
-# On macOS
-open index.html
-
-# On Windows
-start index.html
-
-# On Linux
-xdg-open index.html
-```
-
-Or simply drag the `index.html` file into your browser.
 
 ## 🎮 How to Play
 
@@ -76,16 +54,6 @@ Or simply drag the `index.html` file into your browser.
 
 **Pro tip**: In Unbeatable mode, the best you can achieve is a draw!
 
-## 📊 Project Structure
-
-```
-tic-tac-toe-minimax/
-│
-├── index.html          # Main game file with embedded CSS and JavaScript
-├── README.md          # Project documentation
-└── screenshots/       # Game screenshots (optional)
-    └── game.png
-```
 
 ## 🧠 Learning Outcomes
 
@@ -107,38 +75,11 @@ This web version is based on my original C++ implementation, which featured:
 
 The JavaScript version maintains the same unbeatable AI strategy while adding an interactive web interface.
 
-## 🚦 Future Enhancements
-
-- [ ] Add Alpha-Beta pruning for performance optimization
-- [ ] Implement difficulty levels with depth-limited search
-- [ ] Add multiplayer mode (local/online)
-- [ ] Create AI vs AI demonstration mode
-- [ ] Add move history and replay functionality
-- [ ] Implement different board sizes (4x4, 5x5)
-- [ ] Add sound effects and enhanced animations
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/tic-tac-toe-minimax/issues).
 
 ## 👤 Author
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [@sulatinooo](https://github.com/sulatinooo)
+- LinkedIn: [Sultan Almotiri](https://www.linkedin.com/in/sultan-abdullah-almotiri/)
 
-## 🌟 Acknowledgments
-
-- Inspired by classic game theory and AI algorithms
-- Built as part of my journey to secure a CS internship
-- Thanks to [Anthropic's Claude](https://www.anthropic.com) for helping translate C++ to JavaScript
-
----
-
-**Challenge**: Can you beat the AI in Unbeatable mode? (Spoiler: You can't! 😄)
