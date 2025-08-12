@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-This is a unbeatable Tic Tac Toe "AI" that uses the minimax Algorithim to recursively find the best move to play for each Minimizer and maximizer.
+Unbeatable Tic Tac Toe AI 🎮
+An interactive web-based Tic Tac Toe game featuring an unbeatable AI opponent powered by the Minimax algorithm. Try your best - you won't win against the optimal mode!
