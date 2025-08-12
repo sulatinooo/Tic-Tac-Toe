@@ -2,9 +2,10 @@
 
 An interactive web-based Tic Tac Toe game featuring an unbeatable AI opponent powered by the Minimax algorithm. Try your best - you won't win against the optimal mode!
 
-**[🎯 Play Live Demo]((https://sulatinooo.github.io/Tic-Tac-Toe/))**
+**[🎯 Play Live Demo](https://sulatinooo.github.io/Tic-Tac-Toe/)**
 
 ##  Features
+
 
 - **Unbeatable AI**: Implements Minimax algorithm for optimal play
 - **Two Difficulty Modes**: 
